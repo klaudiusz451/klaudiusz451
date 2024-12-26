@@ -1,5 +1,4 @@
 ## Hi there 👋
-# Moja strona internetowa
 
 Witaj na mojej stronie! Strona dostępna tutaj:  
 [stronka](https://klaudiusz451.github.io)
