@@ -6,7 +6,7 @@ Witaj na mojej stronie! Strona dostępna tutaj:
 Link do repozytorium(fork):  
 [link](https://github.com/NVIDIA/garak)  
 Link do artykułu:  
-[link]https://paperswithcode.com/paper/garak-a-framework-for-security-probing-large)  
+[link](https://paperswithcode.com/paper/garak-a-framework-for-security-probing-large)  
 
 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
