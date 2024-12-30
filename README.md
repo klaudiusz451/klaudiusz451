@@ -4,7 +4,8 @@ Witaj na mojej stronie! Strona dostępna tutaj:
 [stronka](https://klaudiusz451.github.io)
 
 Link do repozytorium(fork):  
-[link](https://github.com/NVIDIA/garak)  
+[link do repo](https://github.com/NVIDIA/garak)  
+[link do fork](https://github.com/klaudiusz451/garak)  
 Link do artykułu:  
 [link](https://paperswithcode.com/paper/garak-a-framework-for-security-probing-large)  
 
